@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  my-web:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2021-05-03T14:47:14.622741802Z"
+    digest: 6e5a637c4f1f56a2e3202470115b26ada38012b62a64c3da665e3ffc9961e942
+    name: my-web
+    urls:
+    - my-web-0.1.tgz
+    version: "0.1"
+generated: "2021-05-03T14:47:14.621056813Z"
